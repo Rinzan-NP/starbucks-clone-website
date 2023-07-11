@@ -1,0 +1,492 @@
+p{
+    padding: 0;
+    margin: 0;
+}
+body{
+    margin: 0px;
+    font-family: SoDoSans_Bold,Helvetica,sans-serif!important;
+}
+.main{
+    height: 2300px;
+}
+.upper{
+    background-color: rgb(252 255 255);
+    width: 1510px;
+    height: 75px;
+    font-family: SoDoSans_Light,Helvetica,sans-serif!important;
+  
+   
+    
+
+}
+.middle{
+    background-color: #1e3932;
+    width: 1510px;
+    height: 80px;
+    color: #fff;
+
+}
+.lower{
+    background-color: rgb(255, 255, 255);
+    height:  580px;
+    width: 1500px;
+}
+.starbucks{
+    height: 40px;
+    margin-left: 107px;
+    margin-top: 15px;
+    float : left;
+
+}
+.upper_text{
+    float: left;
+    margin-left: 55px;
+    margin-top: 25px;
+    font-family: SoDoSans_Light,Helvetica,sans-serif!important;
+    color: grey;
+}
+#home{
+    color: black;
+    margin-left: 40px;
+
+}
+.search{
+    color: #585858;
+    border-radius: 16px;
+    width: 268px;
+    height: 35px;
+    float: left;
+    margin-left: 375px;
+    margin-top: 20px;
+    background-color: #ffffff;
+    border: hidden;
+    font-size: 13px;
+    border-color: grey;
+    box-shadow: 3px 1px 10px rgba(0, 0, 0, 0.1);
+    padding-left: 50px;
+}
+.login{
+    height: 35px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.search_icon{
+    position: absolute;
+    top: 25px;
+    right: 456px;
+    height: 27px;
+}
+.text{
+    position: absolute;
+    color: #f9f9f9;
+    font-size: 20px;
+    font-weight: normal;
+    margin-left: 108px;
+    top: 45px;
+    margin-top: 56px;
+    height: 100%;
+    font-family: SoDoSans_Light,Helvetica,sans-serif!important;
+    float: left;
+}
+.know{
+    border-radius: 18px;
+    float: right;
+    width: 98px;
+    margin-right: 160px;
+    height: 30px;
+    color: white;
+    background-color: #1e3932;
+    margin-top: 22px;
+    border-color: white;
+    font-family:  SoDoSans_Light,Helvetica,sans-serif!important;
+}
+#texto{
+    padding-top: 50px;
+}
+#txt{
+    
+    font-size: 26px;
+    font-weight: bolder;
+    color: black;
+    margin-left: 102px;
+}
+.image{
+    margin-left: 10px;
+    border-radius: 70px;
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    margin-right: 117px;
+
+}
+.container{
+    padding-top: 50px;
+    padding-left: 100px;
+}
+.text_container{
+    padding-top: 18px;
+    padding-left: 107px;
+}
+.txt1{
+    margin-left: 14px;
+    display: inline-block;
+    margin-right: 138px;
+}
+#Food{
+    margin-left: 59px;
+}
+#merchandise{
+    margin-left: 35px;
+}
+#coffee{
+    margin-left: -11px;
+}
+#ready{
+    margin-left: -15px;
+}
+.cont{
+    background-color: #fc744c;
+    width: 1296px;
+    margin-left: 81px;
+    margin-top: -205px;
+    box-shadow: 3px 1px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    height: 220px;
+}
+.latte{
+    height: 211px;
+    float:left
+    
+}
+.inside{
+    margin-left: 65px;
+}
+#carving{
+    font-family: SoDoSans_Regular,Helvetica,sans-serif;
+    font-size: 16px;
+
+}
+#mocha{
+    font-family: SoDoSans_Regular,Helvetica,sans-serif;
+    font-size: 20px;
+    position: absolute;
+    top: 587px;
+    left: 115px;
+    font-weight: bolder;
+}
+
+#tempt {
+    font-family: SoDoSans_Regular,Helvetica,sans-serif;
+    font-size: 15px;
+    position: absolute;
+    font-weight: unset;
+    left: 110px;
+
+}
+#starting{
+    font-family: SoDoSans_Regular,Helvetica,sans-serif;
+    font-size: 14px;
+    position: absolute;
+    color: #6b6b6b;
+    margin-left: 100px;
+}
+#price{
+    font-family: SoDoSans_Regular,Helvetica,sans-serif;
+    font-size: 14px;
+    position: absolute;
+    margin-left: 100px;
+}
+.grey{
+
+    background-color: #ebebeb;
+    margin-top: 117px;
+    width: 1500px;
+    height: 258px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    padding-top: 41px;
+
+}
+#barista{
+    font-size: 26px;
+    margin-left: 82px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+.white_box{
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    width: 382px;
+    height: 134px;
+    margin-top: 32px;
+    margin-left: 83px;
+    border-radius: 21px;
+    display: inline-block;
+}
+.veg{
+    height: 30px;
+    margin-bottom: 75px;
+}
+.img1{
+    margin-top: 17px;
+    margin-left: 21px;
+    height: 105px;
+    width: 109px;
+    border-radius: 10px;
+}
+.txxt{
+font-size: 14px;
+    position: relative;
+    bottom: 75px;
+    right: -135px;
+    font-weight: 600;
+}
+.price{
+ 
+    color: #000;
+    font-size: 15px;
+    font-weight: 600;
+    font-family: SoDoSans_Semibold,Helvetica,sans-serif;
+    position: relative;
+    right: -139px;
+    bottom: 40px;
+
+}
+.order{
+    background-color: #017c5c;
+    width: 165px;
+    height: 45px;
+    color: #f9f9f9;
+    border-radius: 36px;
+    border: hidden;
+    position: relative;
+    bottom: 45px;
+    left: 982px;
+    font-size: 13px;
+    font-weight: 700;
+}
+.Additem1{
+background-color: #017c5c;
+    width: 92px;
+    height: 32px;
+    color: #f9f9f9;
+    border-radius: 36px;
+    border: hidden;
+    position: relative;
+    bottom: 70px;
+    left: 265px;
+}
+.Additem2{
+    background-color: #017c5c;
+    width: 92px;
+    height: 32px;
+    color: #f9f9f9;
+    border-radius: 36px;
+    border: hidden;
+    position: relative;
+    bottom: 70px;
+    left: 265px;
+    
+}
+.Additem3{
+    background-color: #017c5c;
+    width: 92px;
+    height: 32px;
+    color: #f9f9f9;
+    border-radius: 36px;
+    border: hidden;
+    position: relative;
+    bottom: 67px;
+    left: 270px;
+}
+
+
+
+
+#price2{
+    color: #000;
+    font-size: 15px;
+    font-weight: 600;
+    font-family: SoDoSans_Semibold,Helvetica,sans-serif;
+    position: relative;
+    right: -145px;
+    bottom: 41px;
+}
+#price3{
+
+    color: #000;
+    font-size: 15px;
+    font-weight: 600;
+    font-family: SoDoSans_Semibold,Helvetica,sans-serif;
+    position: relative;
+    right: -140px;
+    bottom: 39px;
+}
+
+.grey2{
+    background-color:  #ebebeb;
+    color: white;
+    width: 1500px;
+    height: 500px;
+    margin-top: 60px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+.font{
+    font-family: SoDoSans_Bold,Helvetica,sans-serif!important;
+    color: #1e3932;
+    margin-left: 81px;
+    position: relative;
+    top: 30px;
+}
+.bg{
+    height: 367px;
+    margin-left: 83px;
+    margin-top: 45px;
+    border-radius: 10px;
+    width: 1302px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    position :absolute;
+}
+.inside_img1{
+    font-weight: 700;
+    color: white;
+    position: relative;
+    top: 261px;
+    left: 142px;
+    font-size: 28px;
+}
+.inside_img2{
+    color: white;
+    position: relative;
+    top: 246px;
+    left: 142px;
+    font-size: 16px;
+}
+.kn_bg{
+    background-color: white;
+    color: black;
+    width: 180px;
+    height: 29px;
+    border-radius: 25px;
+    position: relative;
+    top: 261px;
+    border-color: black;
+    left: 142px;
+    font-size: 12px;
+    font-weight: 700;
+    border-style: solid;
+}
+.bottom{
+    background-color: #1e3932;
+    color: white;
+    width: 1500px;
+    height: 480px;
+    margin-top: 90px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.bottom_logo{
+    height: 62px;
+    width: 62px;
+    margin-left: 44px ;
+    margin-top: 60px;
+
+}
+.heading{
+    position: relative;
+    font-size: 20px;
+    color: white;
+    font-weight: 500;
+    display: inline-block;
+    top: 0px;
+    left: -64px;
+    margin-left: 116px;
+}
+#social_media{
+    font-weight: 700;
+    font-size: 19px;
+}
+.inside_tabular{
+    color: white;
+    font-size: 10px;
+}
+.tabular{
+    margin-left: 250px;
+    height: 340px;
+}
+.about_us{
+    margin-left: 50px;
+    margin-top: 25px;
+    color: #fffcfc;
+    font-size: 14px;
+  
+}
+.Responsibility{
+    margin-left: 253px;
+    margin-top: -150px;
+    color: #fffcfc;
+    font-size: 14px;
+   
+}
+.Quick_links{
+    margin-left: 496px;
+    margin-top: -205px;
+    color: #fffcfc;
+    font-size: 14px;
+}
+.social_media{
+    margin-left: 728px;
+    margin-top: -220px;
+}
+#twitter{
+    height: 30px;
+}
+.store{
+    margin-left: 940px;
+    margin-top: -89px;
+
+}
+.copyright{
+    margin-left: 60px;
+    font-size: 12px;
+    margin-top: 15px;
+    color: grey;
+    display: flex;
+}
+#rights{
+    position: relative;
+    left: 681px;
+}
+.order:hover{
+    background-color:#244139;
+}
+.Additem1:hover{
+    background-color:#244139;
+}
+.Additem2:hover{
+    background-color:#244139;
+}
+.Additem3:hover{
+    background-color:#244139;
+}
+.about_us:hover{
+    color: grey;
+
+}
+.Responsibility:hover{
+    color: grey;
+
+}
+.Quick_links:hover{
+    color: grey;
+
+}
+.social_media:hover{
+    color: grey;
+
+}
+.bg:hover{
+    filter: brightness(0.6);
+}
+.kn_bg:hover{
+    background-color: rgb(192, 192, 192);
+    color: white;
+}
